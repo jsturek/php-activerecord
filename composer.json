@@ -1,7 +1,7 @@
 {
-    "name": "php-activerecord/php-activerecord",
+    "name": "unl/php-activerecord",
     "type": "library",
-    "description": "php-activerecord is an open source ORM library based on the ActiveRecord pattern.",
+    "description": "Fork of php-activerecord/php-activerecord is an open source ORM library based on the ActiveRecord pattern.",
     "keywords": ["activerecord", "orm"],
     "homepage": "http://www.phpactiverecord.org/",
     "license": "MIT",
