@@ -1,3 +1,7 @@
+# WARNING: This is a fork intended only for temporary use to make work with PHP 7.4 and MYSQL 5.7 #
+
+This fork is not supported and will go away once not needed
+
 # PHP ActiveRecord - Version 1.0 #
 
 [![Build Status](https://travis-ci.org/jpfuentes2/php-activerecord.png?branch=master)](https://travis-ci.org/jpfuentes2/php-activerecord)
